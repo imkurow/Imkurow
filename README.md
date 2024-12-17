@@ -5,12 +5,12 @@
 
 ```java
 public class WhoAmI {
-    public static String user = "Thierry Zackly";
-    public static String currentEdu = "Binus University";
-    public static String currentlyLearning = "Backend Development";
-    public static String funFact = "I like spicy";
-    public static String city;
-    public static String[] hobbies = {
+    private String user = "Thierry Zackly";
+    private String currentEdu = "Binus University";
+    private String currentlyLearning = "Backend Development";
+    private String funFact = "I like spicy";
+    private String city;
+    private String[] hobbies = {
         "Music",
         "Chilling",
         "Coding",
