@@ -27,6 +27,7 @@ public class WhoAmI {
         becomeSoftwareEngineer();
         becomeFullStackDeveloper();
         finishMyProjects();
+	becomeRich();
     }
 }
 	
