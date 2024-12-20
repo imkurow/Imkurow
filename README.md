@@ -8,6 +8,7 @@
 public class WhoAmI {
     private String user = "Thierry Zackly";
     private String currentEdu = "Binus University";
+    private String major = "Computer Science"
     private String currentlyLearning = "Backend Development";
     private String funFact = "I like spicy";
     private String city;
@@ -19,11 +20,11 @@ public class WhoAmI {
         "Gym"
     };
 
-    public static String getCity() {
-        return "Jakarta";
+    public String getCity() {
+        return city = "South Jakarta";
     }
 
-    public static void ambitions() {
+    public void ambitions() {
         becomeSoftwareEngineer();
         becomeFullStackDeveloper();
         finishMyProjects();
