@@ -5,7 +5,7 @@
 ### Who am I?
 
 ```java
-public class WhoAmI {
+public class User {
     private String user = "Thierry Zackly";
     private String currentEdu = "Binus University";
     private String major = "Computer Science"
