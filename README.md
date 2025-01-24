@@ -38,7 +38,7 @@ public class WhoAmI {
 ### My Topic
 ---
 
-- 👨‍💻 Check out my Portofolio -> [Download My PDF Portofolio!](https://1drv.ms/b/c/be0b793a9414cfe7/ERMT66mzmzhJhYlgfCt4OdgBIKzylOK88Pai37-hznS5bw?e=YJnYEd)
+- 👨‍💻 Check out my Portofolio -> [Download PDF](https://1drv.ms/b/c/be0b793a9414cfe7/ERMT66mzmzhJhYlgfCt4OdgBIKzylOK88Pai37-hznS5bw?e=YJnYEd)
 
 - 💬 Ask me about -> **Web / Mobile Development**
 
